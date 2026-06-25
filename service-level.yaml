@@ -1,0 +1,6 @@
+services:
+  - name: bdly-adm-contextualizer
+    owner: about-me
+    language: javascript
+    nonServiceType: library
+    description: "Conveniently wraps node errors to provide more context to errors passed to callbacks"
